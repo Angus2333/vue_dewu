@@ -1,0 +1,23 @@
+{
+    "ret": true,
+    "data": {
+        "swiperList": [{
+                "id": "0001",
+                "imgUrl": "https://s1.ax1x.com/2020/10/03/01Gny9.jpg"
+            }, {
+                "id": "0002",
+                "imgUrl": "https://s1.ax1x.com/2020/10/03/01GZz4.jpg"
+            }, {
+                "id": "0003",
+                "imgUrl": "https://s1.ax1x.com/2020/10/03/01GuLR.jpg"
+            }, {
+                "id": "0004",
+                "imgUrl": "https://s1.ax1x.com/2020/10/03/01GmQJ.jpg"
+            },
+            {
+                "id": "0005",
+                "imgUrl": "https://s1.ax1x.com/2020/10/03/01GVWF.jpg"
+            }
+        ]
+    }
+}

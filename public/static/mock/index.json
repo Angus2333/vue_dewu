@@ -1,0 +1,126 @@
+{
+    "ret": true,
+    "data": {
+        "city": "分类",
+        "swiperList": [{
+            "id": "0001",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eC1Gq.jpg"
+        }, {
+            "id": "0002",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eBSOI.jpg"
+        }, {
+            "id": "0003",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eBAfg.jpg"
+        }, {
+            "id": "0004",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0e0vSH.jpg"
+        }],
+        "iconList": [{
+            "id": "0001",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0e6cwR.png",
+            "desc": "冰点价专区"
+        }, {
+            "id": "0002",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0e6gT1.png",
+            "desc": "精品速递"
+        }, {
+            "id": "0003",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0ePzAH.png",
+            "desc": "高街奢服"
+        }, {
+            "id": "0004",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eyqRU.png",
+            "desc": "运动外套"
+        }, {
+            "id": "0005",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0ePvHe.png",
+            "desc": "潮流夹克"
+        }, {
+            "id": "0006",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eiSNd.png",
+            "desc": "喷泡专区"
+        }, {
+            "id": "0007",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eybGT.png",
+            "desc": "AJ专区"
+        }, {
+            "id": "0008",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0ePXnO.jpg",
+            "desc": "联名"
+        }, {
+            "id": "0009",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0ePjBD.png",
+            "desc": "联名"
+        }, {
+            "id": "0010",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eiC9I.png",
+            "desc": "玩偶"
+        }, {
+            "id": "0011",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eip4A.png",
+            "desc": "数码"
+        }, {
+            "id": "0012",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eiFjf.png",
+            "desc": "手表"
+        }, {
+            "id": "0013",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eiigP.png",
+            "desc": "滑板"
+        }, {
+            "id": "0014",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eiP3t.png",
+            "desc": "配饰"
+        }, {
+            "id": "0015",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eiAu8.png",
+            "desc": "箱包"
+        }, {
+            "id": "0016",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eiEDS.png",
+            "desc": "口红"
+        }],
+        "recommendList": [{
+            "id": "0001",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eZp4g.png",
+            "title": "NikexCPFM联名",
+            "desc": "Cactus Plant Flea Maeket 连帽半拉链防风衣 夹克 男款 绿色"
+        }, {
+            "id": "0002",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eVzE8.png",
+            "title": "Supreme SS20",
+            "desc": "多口袋冲锋衣，连帽休闲夹克，男女同款，The north face 联名"
+        }, {
+            "id": "0003",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eZSUS.png",
+            "title": "Nike Air Foamposite One Denim",
+            "desc": "牛仔喷，单宁喷"
+        }, {
+            "id": "0004",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eZCCQ.png",
+            "title": "Supreme SS20 Week1",
+            "desc": "天鹅绒多口袋外套，男女同款，奶牛斑点"
+        }, {
+            "id": "0005",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0eVvHf.png",
+            "title": "Air Jordan 1 Mid Chicago",
+            "desc": "白红，经典小芝加哥"
+        }],
+        "awardList": [{
+            "id": "0001",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0enfRe.jpg",
+            "title": "北京温泉排行榜",
+            "desc": "细数北京温泉，温暖你的冬天"
+        }, {
+            "id": "0002",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0enhxH.jpg",
+            "title": "北京必游TOP10",
+            "desc": "来北京必去的景点非这些地方莫属"
+        }, {
+            "id": "0003",
+            "imgUrl": "https://s1.ax1x.com/2020/09/29/0enWGD.jpg",
+            "title": "寻找北京的皇城范儿",
+            "desc": "数百年的宫廷庙宇，至今依旧威严霸气"
+        }]
+    }
+}

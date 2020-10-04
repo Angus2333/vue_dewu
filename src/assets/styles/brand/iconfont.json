@@ -1,0 +1,72 @@
+{
+  "id": "2111803",
+  "name": "brand",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2193222",
+      "name": "阿迪达斯",
+      "font_class": "adidasi",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6027477",
+      "name": "优衣库",
+      "font_class": "youyiku",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "6027512",
+      "name": "安踏",
+      "font_class": "anta",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "6656295",
+      "name": "supreme",
+      "font_class": "supreme",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8160926",
+      "name": "李宁logo",
+      "font_class": "lininglogo",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11615142",
+      "name": "智能选鞋_新百伦",
+      "font_class": "zhinengxuanxie_xinbailun",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12514613",
+      "name": "耐克",
+      "font_class": "naike",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "17537665",
+      "name": "PUMA",
+      "font_class": "PUMA-copy",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "17537666",
+      "name": "智能选鞋_万斯",
+      "font_class": "zhinengxuanxie_wansi-copy",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    }
+  ]
+}
